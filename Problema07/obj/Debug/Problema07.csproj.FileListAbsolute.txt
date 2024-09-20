@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Problema07\bin\Debug\Problema07.exe.config
+C:\Users\HP\source\repos\Problema07\bin\Debug\Problema07.exe
+C:\Users\HP\source\repos\Problema07\bin\Debug\Problema07.pdb
+C:\Users\HP\source\repos\Problema07\obj\Debug\Problema07.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Problema07\obj\Debug\Problema07.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Problema07\obj\Debug\Problema07.exe
+C:\Users\HP\source\repos\Problema07\obj\Debug\Problema07.pdb
